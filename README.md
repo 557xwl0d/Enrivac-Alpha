@@ -2,10 +2,9 @@
 
 # Modern Fullscreen Theme for Playnite
 
-A modified version of the official Playnite **Fullscreen** theme, redesigned to be lightweight, minimalist, colorful, and focused on an unparalleled full-screen experience.
+A modified version of the official Playnite **Fullscreen** theme, stripped down to the essentials to remove clutter and let your game artwork take center stage.
 
 ## 🖼️ Visual Features
-* **Minimalist & Clean Layout:** Stripped down to the essentials to remove clutter and let your game artwork take center stage.
 
 * **Fullscreen Carousel:** Recommended: 3 Columns, Item spacing 100
 <img width="3840" height="2160" alt="2026-10-19 - 143436341" src="https://github.com/user-attachments/assets/670fcf2a-f3af-4ad8-8585-df75e8537077" />
