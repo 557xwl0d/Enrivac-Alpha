@@ -2,7 +2,7 @@
 
 # Modern Fullscreen Theme for Playnite
 
-A modified version of the official Playnite **Fullscreen** theme, stripped down to the essentials to remove clutter and let your game artwork take center stage.
+A modified version of the official Playnite **Fullscreen** theme, stripped down to the essentials to remove clutter and incentivize you to **play your games** instead of Playnite library manager operator.
 
 ## 🖼️ Visual Features
 
